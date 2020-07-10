@@ -11,5 +11,5 @@ export class AppComponent {
     email: new FormControl(),
     password: new FormControl(),
     captcha: new FormControl(),
-  })
+  });
 }

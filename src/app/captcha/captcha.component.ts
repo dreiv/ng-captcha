@@ -61,5 +61,4 @@ export class CaptchaComponent implements OnInit, ControlValueAccessor {
     this.onChange(value);
     this.onTouched();
   }
-
 }
